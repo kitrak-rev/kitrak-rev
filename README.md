@@ -81,12 +81,12 @@ I am a Machine Learning, Deep Learning, and Cloud Enthusiast. I like to explore 
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://rishikonapure.medium.com/)
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/mlwithrish/)
 
-<img align="left" alt="Rushikesh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rishikonapure&show_icons=true&hide_border=true" />  
+<img align="left" alt="Karthik Raja's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kitrak-rev&show_icons=true&hide_border=true" />  
  
 <div align="center">
         
    ## Visitor Count
-   ![Visitor Count](https://profile-counter.glitch.me/{rishikonapure}/count.svg)
+   ![Visitor Count](https://profile-counter.glitch.me/{kitrak-rev}/count.svg)
         
 </div>
 
