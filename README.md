@@ -53,14 +53,12 @@
 </div>
 
 <div align="center">
-## Connect with me:
 
-<p>
-	
+## Connect with me:
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/Kitrak_rev) 
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/kitrak-rev/)
 
- </p>
+ 
   
 <b>❤️ Thank you for visiting my Github Profile ❤️</b>
 
