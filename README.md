@@ -6,7 +6,7 @@
 
 🎓 &nbsp;I'm currently in my Final Year of my Bachelors degree in CSE at Sri Sivasubramaniya Nadar College of Engineering.\
 🌱 &nbsp;I'm currently learning about Few-Shot Learning in NLP and CV\
-✉️ &nbsp;You can shoot me an email at karthikraja19048@cse.ssn.edu.in!
+✉️ &nbsp;You can shoot me an email at karthikraja2k1@gmail.com!
 
 <!-- Tech Stack -->
 <!-- https://github.com/Ileriayo/markdown-badges -->
