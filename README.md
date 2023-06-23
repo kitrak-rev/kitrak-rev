@@ -23,11 +23,12 @@
 | **OS**  |  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white                         )&nbsp;![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black                         )|
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
 ### 📊 &nbsp;GitHub Stats
+<!--
 <p style="display:flex;">
 <img  height="200em" alt="Karthik Raja's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kitrak-rev&show_icons=true&hide_border=false&theme=tokyonight" /> 
 &nbsp;
 <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=kitrak-rev&theme=tokyonight&hide_border=false"/>
-</p>
+</p> -->
 
 <p> 
 
