@@ -7,6 +7,7 @@
 🎓 &nbsp;I'm currently employed on a full-time basis at a financial institution.\
 🌱 &nbsp;Learning LLM and their evaluators(NLP)\
 ✉️ &nbsp;You can shoot me an email at karthikraja2k1@gmail.com!
+Know more about me at ![profile](kitrak-rev.github.io)
 
 <!-- Tech Stack -->
 ### 💻Tech Stack 
