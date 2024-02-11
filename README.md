@@ -4,12 +4,11 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🎓 &nbsp;I'm currently in my Final Year of my Bachelors degree in CSE at Sri Sivasubramaniya Nadar College of Engineering.\
-🌱 &nbsp;I'm currently learning about Few-Shot Learning in NLP and CV\
+🎓 &nbsp;I'm currently employed on a full-time basis at a financial institution.\
+🌱 &nbsp;Learning LLM and their evaluators(NLP)\
 ✉️ &nbsp;You can shoot me an email at karthikraja2k1@gmail.com!
 
 <!-- Tech Stack -->
-<!-- https://github.com/Ileriayo/markdown-badges -->
 ### 💻Tech Stack 
   <br>
   <!--   my-skils -->
@@ -34,13 +33,6 @@
 
 </p>
 
-
-<!-- **Recent Update**:
-- **May 2021**: Research paper [Video Content-Based Advertisement Recommendation System using Classification Technique of Machine Learning](https://iopscience.iop.org/article/10.1088/1742-6596/1854/1/012025) has been published in Journal of Physics: Conference Series ([IOPscience](https://iopscience.iop.org/))
-- **Jan 2020**:Idea paper [Text Data Analysis for Advertisement Recommendation System Using Multi-label Classification of Machine Learning](http://matjournals.in/index.php/JoDMM/article/view/4521) has been published in Journal of Data Mining and Management ([MAT Journals](http://matjournals.com/Journal-of-Data-Mining-and-Management.html)). -->
-
-
-<!-- https://hendrasob.github.io/badges/#social -->
 
  <p align="center" >
  <a href="https://github.com/kitrak-rev">
